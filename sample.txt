@@ -1,1 +1,3 @@
 this is Sample Text File to check git command Adding text for new Commit
+
+this is Second line to addd content
