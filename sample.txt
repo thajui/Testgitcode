@@ -1,1 +1,1 @@
-this is Sample Text File to check git command
+this is Sample Text File to check git command Adding text for new Commit
