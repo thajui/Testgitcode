@@ -29,4 +29,4 @@ jobs:
         server: ftp.teksedu.com
         username: ${{ secrets.ftp_USERNAME }}
         password: ${{ secrets.ftp_PASSWORD }}
-        server-dir: /public_html/teksedu.com/
+        server-dir: ./public_html/teksedu.com/
